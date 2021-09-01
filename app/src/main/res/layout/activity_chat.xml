@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#c7edcc">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:text="尝尝吧，很好吃，就吃一口：try it，you will like it,take a bite.\n
+我能不能吃一口你的柠檬派 ：Can I have a bite of your lemon pie?  \nhave a bite of sth  咬一口什么
+
+Now that you have an understanding of money scripts, try to uncover which are relevant toyou.
+现在，我们已经了解了各种“金钱剧本”，接下来应该进行自我剖析。\n
+have a good understanding有一个很好的理解\n
+　1、对…能很好地理解 　英语作文
+ take view of … 评价某事（某物）
+ have a good understanding of … 对…能很好地理解
+ come to know … 开始认识到…
+ 2、了如指掌 　
+ 了如指掌 have a good understanding of 信息传播技术 information。
+ but we have never done it alone
+\n
+ together with all of you，partners，customers and developers
+ no matter in good or difficult times
+\n
+ 回望过去，one度过了极不平凡的一年
+ look back，the past year has been an incredible journey for one.
+\n
+ 我们一起创造的成绩值得人骄傲
+ I am very proud of what we  have achieved together
+\n
+ 2020年将会更加令人兴奋
+ year 2020 is going to an even more exciting year
+\n
+ 因为我知道我们携手努力可以做得更好
+ As I know that together we can do better
+\n
+
+ 连接全球人们的技术
+ The technology that connects people across the world"
+                android:textColor="#000000"
+                android:textSize="18sp" />
+        </LinearLayout>
+
+    </ScrollView>
+
+
+</RelativeLayout>
