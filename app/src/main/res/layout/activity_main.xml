@@ -7,12 +7,13 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
+
     <com.one.eng.NoScrollViewPager
         android:id="@+id/vp_container_no_scroll"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_marginTop="44dp"
-        android:layout_above="@id/rg_main" />
+        android:layout_above="@id/rg_main"
+        android:layout_marginTop="44dp" />
 
     <RadioGroup
         android:id="@+id/rg_main"
